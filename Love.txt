@@ -1,4 +1,0 @@
-done kiss
-clear
-
-this is help full for learning git 
